@@ -1,10 +1,6 @@
 package Homework5;
 
-import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-
-public class Test {
+public class Test5 {
 
 	public static void main(String[] args) throws Exception {
 		
